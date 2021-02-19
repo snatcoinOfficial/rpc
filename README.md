@@ -19,6 +19,6 @@ Copyright 2018-21 Snatcoin Developers
 <br><br>
 &ensp;<b><i>example.php</i></b>
 <br>
-Example on how to use jsonRPCClient.php and snatRPC.php
+Example on how to use jsonRPCClient.php and snatRPC.php - Change your username and password to match those in your snatcoin.conf file.
 <br>
 Copyright 2018-21 Snatcoin Developers
