@@ -1,4 +1,5 @@
 # rpc
+Snatcoin RPC<br>
 Use the Snatcoin [SNAT] cryptocurrency in PHP based apps easier with the following libraries.
 <br><br>
 
